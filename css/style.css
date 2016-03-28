@@ -79,7 +79,7 @@ span.menu {
 /*--banner start here--*/
 .banner {
   background: url(../images/free.jpg)no-repeat;
-  min-height: 830px;
+  min-height: 860px;
   background-size: cover;
   position:relative;
 }

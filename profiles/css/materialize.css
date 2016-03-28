@@ -1660,7 +1660,9 @@ html {
  * Remove default margin.
  */
 body {
-  margin: 0; }
+  margin: 0;
+background-color: rgba(255, 240, 121, 0.65); 
+}
 
 /* HTML5 display definitions
    ========================================================================== */
